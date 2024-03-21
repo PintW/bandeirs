@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .queijo{
     background: #000000;
     color:white;
@@ -10,5 +14,8 @@
 }
 .hamburger{
    display: inline-block;
-
+   margin: 016px;
+   padding: 24px 0;
+   font-size: 24px;
+   
 }
